@@ -1,0 +1,11 @@
+# THE DO NOT TOUCH LIST
+.streamlit/
+secrets.toml
+memory_banks/
+memory_bank.txt
+memory_bank.bak
+session_state.json
+security_log.txt
+__pycache__/
+.env
+rescue_secrets.py
